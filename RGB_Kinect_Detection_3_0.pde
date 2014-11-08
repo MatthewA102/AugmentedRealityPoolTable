@@ -1,3 +1,17 @@
+/*
+	Augmented reality pool table
+	Senior Design Project Fall 2014
+	Members
+		Matthew Asuncion
+		James Cho
+		Dawson Wang
+		Bryan Wong
+		Andy Li
+		
+	Check Readme for updates and versions starting from
+	November 8, 2014
+*/
+
 import SimpleOpenNI.*;
 SimpleOpenNI cam1;
 SimpleOpenNI cam2;
